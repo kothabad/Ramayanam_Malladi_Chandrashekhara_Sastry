@@ -9,17 +9,32 @@
   "repos": [
     {
       "name": "Ramayanam_Malladi_Chandrashekhara_Sastry",
-      "usedBytes": 0,
+      "usedBytes": 76561662,
       "full": false
     },
     {
       "name": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-1",
-      "usedBytes": 0,
+      "usedBytes": 976233302,
       "full": false
     }
   ],
   "currentRepo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-1",
-  "tracks": [],
+  "tracks": [
+    {
+      "id": "e3025ef5-9fef-4b11-a3c5-bed9ff90c8bb",
+      "kind": "video",
+      "title": "1_శ్రీమధ్ రామాయణ ప్రవచనములు - 1 వ భాగం - బ్రహ్మ శ్రీ మల్లాది చంధ్ర శేఖర శాస్త్రి గారు [4OZvnOpANJ0]",
+      "artist": "Unknown",
+      "album": "Unknown",
+      "duration": 10460,
+      "mime": "video/mp4",
+      "bytes": 1052785918,
+      "sha256": "044414912a74d2c89b2483af326177e755c632c676b6f1cb31b4625c583a9937",
+      "addedAt": "2026-11-26T12:00:57.853Z",
+      "updatedAt": "2026-11-26T12:00:57.853Z",
+      "manifest": "manifests/e3025ef5-9fef-4b11-a3c5-bed9ff90c8bb.json"
+    }
+  ],
   "sources": [],
-  "updatedAt": "2026-11-26T11:58:30.823Z"
+  "updatedAt": "2026-11-26T12:27:05.548Z"
 }
