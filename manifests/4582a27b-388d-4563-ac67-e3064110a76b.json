@@ -1,0 +1,300 @@
+{
+  "schemaVersion": 1,
+  "trackId": "4582a27b-388d-4563-ac67-e3064110a76b",
+  "media": {
+    "name": "2_శ్రీమధ్ రామాయణ ప్రవచనములు - 2 వ భాగం - బ్రహ్మ శ్రీ మల్లాది చంధ్ర శేఖర శాస్త్రి గారు [Ee-cO1NPU2s].mp4",
+    "mime": "video/mp4",
+    "bytes": 978598213,
+    "sha256": "16ddbdec8b9666336d665addc49ffb55d8208f3abbf8feac068ca479b231f7c9",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.0",
+        "bytes": 25690112,
+        "sha": "28d2f03c7d73b2806f33f2506efc150c6a2b9be8"
+      },
+      {
+        "n": 1,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.1",
+        "bytes": 25690112,
+        "sha": "005d3aee135a22ef01e0c68d3c46e95ccb1110b9"
+      },
+      {
+        "n": 2,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.2",
+        "bytes": 25690112,
+        "sha": "b4a5f8f6ece6d33927e328147294c9f14b9d6711"
+      },
+      {
+        "n": 3,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.3",
+        "bytes": 25690112,
+        "sha": "8b4ed47859a81c387de9d023049d6ee25e1345f3"
+      },
+      {
+        "n": 4,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.4",
+        "bytes": 25690112,
+        "sha": "478e9e8be739640584938d8c67eece60a98a8b76"
+      },
+      {
+        "n": 5,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.5",
+        "bytes": 25690112,
+        "sha": "46059d39059bf2f4ee83c39068dad6a3135ac656"
+      },
+      {
+        "n": 6,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.6",
+        "bytes": 25690112,
+        "sha": "52302dc10f34a27dac3ec698fa885bba5dbbf08f"
+      },
+      {
+        "n": 7,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.7",
+        "bytes": 25690112,
+        "sha": "5b0bd95b741aafdd719b17c47189bbb1d0f2513e"
+      },
+      {
+        "n": 8,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.8",
+        "bytes": 25690112,
+        "sha": "38f35fb34a42769bbdc8248a564cb39acd34ecfb"
+      },
+      {
+        "n": 9,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.9",
+        "bytes": 25690112,
+        "sha": "7407f49c0c0132c6d46d5479e2234c235978af0b"
+      },
+      {
+        "n": 10,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.10",
+        "bytes": 25690112,
+        "sha": "0ac44a80eef7357946f9688d24b8b94be7de6d61"
+      },
+      {
+        "n": 11,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.11",
+        "bytes": 25690112,
+        "sha": "027569f107947c02ca1a35291f9065b9c52dbb51"
+      },
+      {
+        "n": 12,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.12",
+        "bytes": 25690112,
+        "sha": "6b1c3bd9468d0a3915bc3126ef2ac7cd625e1bf0"
+      },
+      {
+        "n": 13,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.13",
+        "bytes": 25690112,
+        "sha": "9d80437b8fd6f2572faa42b8fdb823e3d430ff46"
+      },
+      {
+        "n": 14,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.14",
+        "bytes": 25690112,
+        "sha": "cbbb6f18b86c47f7f47b2fa890b9f2d0b8be33d0"
+      },
+      {
+        "n": 15,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.15",
+        "bytes": 25690112,
+        "sha": "4eda6f035d0c73a0d42a185261beadcce04ceb75"
+      },
+      {
+        "n": 16,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.16",
+        "bytes": 25690112,
+        "sha": "933165dd799c6eeba3cafeee45e4e4360b8012c5"
+      },
+      {
+        "n": 17,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.17",
+        "bytes": 25690112,
+        "sha": "2cd456f64f22a4bcb9489ee1e7be4af500928a1c"
+      },
+      {
+        "n": 18,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.18",
+        "bytes": 25690112,
+        "sha": "7e306ee617cc39d1440cec6567be5866fd96c6bd"
+      },
+      {
+        "n": 19,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.19",
+        "bytes": 25690112,
+        "sha": "4cc2b424f3f2cae133d4c30c95235f6e5d3c39d3"
+      },
+      {
+        "n": 20,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.20",
+        "bytes": 25690112,
+        "sha": "255af4883ad8439a2d3c580f2bf8c5aa0e77ae99"
+      },
+      {
+        "n": 21,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.21",
+        "bytes": 25690112,
+        "sha": "d2709a2540a9362224d2df8ed0bba975eea17d27"
+      },
+      {
+        "n": 22,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.22",
+        "bytes": 25690112,
+        "sha": "ce666018dce4250cfaad1bae99405f2a5565f95c"
+      },
+      {
+        "n": 23,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.23",
+        "bytes": 25690112,
+        "sha": "abbb28562a73dea0aa527f1194f03858eccbc3eb"
+      },
+      {
+        "n": 24,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.24",
+        "bytes": 25690112,
+        "sha": "da8a620524b3e74c20363d2c5497685288121273"
+      },
+      {
+        "n": 25,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.25",
+        "bytes": 25690112,
+        "sha": "5a91a7965d8b06d6dadab4a332ba7791703d8019"
+      },
+      {
+        "n": 26,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.26",
+        "bytes": 25690112,
+        "sha": "697bcfd4ec717c6da3465592083b9838056be305"
+      },
+      {
+        "n": 27,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.27",
+        "bytes": 25690112,
+        "sha": "4ddeb756735b571f6a43eb037371468aa34f00c0"
+      },
+      {
+        "n": 28,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.28",
+        "bytes": 25690112,
+        "sha": "5141adeca9c10e71293a11c465c97ab556f0be72"
+      },
+      {
+        "n": 29,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.29",
+        "bytes": 25690112,
+        "sha": "41c4d688d2d1cf99e0e14e7feb67b83910300255"
+      },
+      {
+        "n": 30,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.30",
+        "bytes": 25690112,
+        "sha": "de08378d14741f39d8df3c1ba82664abcb202481"
+      },
+      {
+        "n": 31,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.31",
+        "bytes": 25690112,
+        "sha": "6ab450ff0d0aa719e60d6a4fe296e1746e6e71f9"
+      },
+      {
+        "n": 32,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.32",
+        "bytes": 25690112,
+        "sha": "06f8c62fab51af513e1a4362902b488f0bf2e7b0"
+      },
+      {
+        "n": 33,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.33",
+        "bytes": 25690112,
+        "sha": "c0ef82992072334ecf8a87b5d4746c3a7cf562ff"
+      },
+      {
+        "n": 34,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.34",
+        "bytes": 25690112,
+        "sha": "32df66e3d79d6b3cda296108c0c5900c08163dd0"
+      },
+      {
+        "n": 35,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.35",
+        "bytes": 25690112,
+        "sha": "5bbe311f4082440950ab670517d71833590b639b"
+      },
+      {
+        "n": 36,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.36",
+        "bytes": 25690112,
+        "sha": "688fe368e22069e39d5f269a75dd8075deed3162"
+      },
+      {
+        "n": 37,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.37",
+        "bytes": 25690112,
+        "sha": "817083ef987bfacfa17b826c5cde311d8123d834"
+      },
+      {
+        "n": 38,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/media.38",
+        "bytes": 2373957,
+        "sha": "80610faff57ef674a5a3cd61a93095f411c20a78"
+      }
+    ]
+  },
+  "cover": {
+    "name": "poster.jpg",
+    "mime": "image/jpeg",
+    "bytes": 5875,
+    "sha256": "1a910e1b6a3ae317852c3e848dc61653bb06da9c49e0ba42738bb4f35d171eb6",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
+        "path": "data/45/4582a27b-388d-4563-ac67-e3064110a76b/cover.0",
+        "bytes": 5875,
+        "sha": "0538c40801fbe8a6161b5b16b9bc611a11069d0c"
+      }
+    ]
+  }
+}

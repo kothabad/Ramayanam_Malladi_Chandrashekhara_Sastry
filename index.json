@@ -19,7 +19,7 @@
     },
     {
       "name": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-2",
-      "usedBytes": 0,
+      "usedBytes": 978604088,
       "full": false
     }
   ],
@@ -38,8 +38,22 @@
       "addedAt": "2026-11-26T12:00:57.853Z",
       "updatedAt": "2026-11-26T12:00:57.853Z",
       "manifest": "manifests/e3025ef5-9fef-4b11-a3c5-bed9ff90c8bb.json"
+    },
+    {
+      "id": "4582a27b-388d-4563-ac67-e3064110a76b",
+      "kind": "video",
+      "title": "2_శ్రీమధ్ రామాయణ ప్రవచనములు - 2 వ భాగం - బ్రహ్మ శ్రీ మల్లాది చంధ్ర శేఖర శాస్త్రి గారు [Ee-cO1NPU2s]",
+      "artist": "Unknown",
+      "album": "Unknown",
+      "duration": 10777,
+      "mime": "video/mp4",
+      "bytes": 978598213,
+      "sha256": "16ddbdec8b9666336d665addc49ffb55d8208f3abbf8feac068ca479b231f7c9",
+      "addedAt": "2026-11-26T12:00:59.281Z",
+      "updatedAt": "2026-11-26T12:00:59.281Z",
+      "manifest": "manifests/4582a27b-388d-4563-ac67-e3064110a76b.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-26T12:27:41.472Z"
+  "updatedAt": "2026-11-26T12:38:33.161Z"
 }
