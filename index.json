@@ -29,7 +29,7 @@
     },
     {
       "name": "Ramayanam_Malladi_Chandrashekhara_Sastry-part-4",
-      "usedBytes": 0,
+      "usedBytes": 907741769,
       "full": false
     }
   ],
@@ -76,8 +76,22 @@
       "addedAt": "2026-11-26T12:01:04.050Z",
       "updatedAt": "2026-11-26T12:01:04.050Z",
       "manifest": "manifests/cc0e0227-b282-4b34-a977-6f4a576a3968.json"
+    },
+    {
+      "id": "265d13c2-2b4d-47d7-a224-bc9bcaf5fbea",
+      "kind": "video",
+      "title": "4_శ్రీమధ్ రామాయణ ప్రవచనములు - 4 వ భాగం - బ్రహ్మ శ్రీ మల్లాది చంధ్ర శేఖర శాస్త్రి గారు [FEwy6_VlQ6k]",
+      "artist": "Unknown",
+      "album": "Unknown",
+      "duration": 10416,
+      "mime": "video/mp4",
+      "bytes": 907736840,
+      "sha256": "81d6552bbe00f0acd434c6d49bc82026c4cc00cec8502e169e9a39a17390bf09",
+      "addedAt": "2026-11-26T12:01:08.602Z",
+      "updatedAt": "2026-11-26T12:01:08.602Z",
+      "manifest": "manifests/265d13c2-2b4d-47d7-a224-bc9bcaf5fbea.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-26T13:42:58.082Z"
+  "updatedAt": "2026-11-26T14:25:48.961Z"
 }
